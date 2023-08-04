@@ -1,0 +1,186 @@
+.Iphone13ProMax1 {
+  width: 100%;
+    height: 926px;
+    position: absolute;
+    background: linear-gradient(186deg, #14B4F4 49%, rgba(20, 180, 244, 0) 100%);
+}
+.Foto1{
+  width: 200px;
+  height: 225px;  
+  left: 50px;
+  top: 35px;
+  position: absolute
+}
+.Rectangle1{ 
+  width:230px; 
+  height:32px; 
+  left:375px;
+  position: absolute; 
+  background: linear-gradient(180deg, #2612DE 36%, rgba(38, 18, 222, 0) 100%);
+   border-radius: 15px;
+}
+.TentangSaya{
+  left: 400px; 
+  top: 4px; 
+  position: absolute;
+  color: white;
+  font-size: 26px;
+  font-family: Roboto Slab;
+  font-weight: 400;
+  word-wrap: break-word; 
+}
+.Hallo{
+    left: 300px;
+    top: 60px;
+    position:absolute;
+    color: black;
+    font-size: 23px;
+    font-family: Reem Kufi; 
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.Nama{ 
+  height :80px;
+  top:90px;
+  left:300px;
+    position: absolute; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Roboto Slab; 
+    font-weight: 400;
+     word-wrap: break-word;
+  
+}
+.Rectangle2{ 
+    width:650px;
+     height: 35px; 
+     left: 100px; 
+     top: 275px;
+     position: absolute;
+     background: rgba(38, 18, 222, 0.37);
+     border-radius: 15px
+}
+.RiwayatPendidikan{
+  height: 60px;
+  left: 275px; 
+  top: 280px;
+  position: absolute;
+  color: white; 
+  font-size: 23px;
+  font-family: Roboto Slab;
+  font-weight: 400;
+  word-wrap:break-word ;
+}
+.Rectangle3{
+  width:900px;
+  height: 250px; 
+  left: 2px;
+  top: 325px; 
+  position: absolute; 
+  background: rgba(38, 18, 222, 0.55);
+  border-radius: 20px
+}
+.PadaTahun2010{
+  left: 50px; 
+  top: 350px; 
+  position: absolute; 
+  color: #F5EFEF; 
+  font-size: 25px; 
+  font-family: Rubik;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Rectangle4{
+  width:900px;
+  height:35px; 
+  left :0px;
+  top:580px;
+position: absolute; 
+background: rgba(34, 17, 68, 0.42);
+border-radius: 15px;
+}
+.Rectangle5{ 
+  position : absolute;
+  top:625px;
+  width: 900px; 
+  height: 120px; 
+  background: linear-gradient(180deg, rgba(38, 18, 222, 0.13) 67%, rgba(38, 18, 222, 0.13) 100%); 
+  border-radius: 23px
+}
+.Prestasi{ 
+  left: 400px; 
+  top: 585px; 
+  position: absolute; 
+  color: white; 
+  font-size: 20px; 
+  font-family: Roboto Slab; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+.PadaTahun2021{
+  height:100px; 
+  left:50px; 
+  top: 635px; 
+  position: absolute; 
+  color: black; 
+  font-size: 17px; 
+  font-family: Roboto Slab; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+.Rectangle6{
+  width:350px;
+  height: 30px; 
+  left: 550px; 
+  top: 750px; 
+  position: absolute; 
+  background: #2612DE; 
+  border-radius: 20px;
+}
+.MyHobby{ 
+  left: 710px; 
+  top: 750px; 
+  position: absolute; 
+  color: white; 
+  font-size: 20px; 
+  font-family: Rubik; 
+  font-weight: 40;
+}
+.Rectangle7{
+  width:200px;
+  height: 30px; 
+  left: 700px; 
+  top: 790px; 
+  position: absolute; 
+  background: #2144F5; 
+  border-radius: 20px;
+}
+.Memasak{
+  left: 710px; 
+  top: 790px; 
+  position: absolute; 
+  color: white; 
+  font-size: 20px; 
+  font-family: Rubik; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+.Rectangle8{
+  width:200px;
+  height: 30px; 
+  left: 700px; 
+  top: 825px; 
+  position: absolute; 
+  background: #2612DE; 
+  border-radius: 20px;
+}
+.Membaca{ 
+  left: 710px; 
+  top: 830px; 
+  position: absolute; 
+  color: white; 
+  font-size: 20px; 
+  font-family: Rubik;
+   font-weight: 400; 
+   word-wrap: break-word;
+}
